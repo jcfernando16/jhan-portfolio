@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jhan-portfolio/static/css/main.4515bbe5.css",
+    "main.js": "/jhan-portfolio/static/js/main.9ce5007a.js",
+    "index.html": "/jhan-portfolio/index.html",
+    "main.4515bbe5.css.map": "/jhan-portfolio/static/css/main.4515bbe5.css.map",
+    "main.9ce5007a.js.map": "/jhan-portfolio/static/js/main.9ce5007a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4515bbe5.css",
+    "static/js/main.9ce5007a.js"
+  ]
+}
